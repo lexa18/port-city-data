@@ -3,7 +3,7 @@
         {
             "lat": "48.429642",
             "lng": "35.065446",
-            "textField": "<a href='tel:portcity@gmail.com'>portcity@gmail.com</a>"
+            "textField": "<a href='mailto:portcity@gmail.com'>portcity@gmail.com</a>,<a href='tel:+380 98 654 98 75'>+380 98 654 98 75</a><p>г.Днепр, ул. Центральная, 5</p>"
 
         }
     ]
