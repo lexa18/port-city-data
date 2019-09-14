@@ -3,8 +3,7 @@
         {
             "lat": "48.429642",
             "lng": "35.065446",
-            "email": "",
-            "phone": ""
+            "textField": "<a href='tel:portcity@gmail.com'>portcity@gmail.com</a>"
 
         }
     ]
