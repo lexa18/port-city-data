@@ -4,13 +4,13 @@
             "lat": "48.429642",
             "lng": "35.065446",
             "textField": "<p><a href='mailto:portcity@gmail.com'>portcity@gmail.com</a></p><p><a href='tel:+380 98 654 98 75'>+380 98 654 98 75</a></p><p>г.Днепр, ул. Центральная, 5</p>",
-            "label": "ЖК ПОРТ СИТИ"
+            "label": "Port City </br> Комплекс"
         },
         {
             "lat": "48.433327",
             "lng": "35.043239",
             "textField": "<p><a href='mailto:portcity@gmail.com'>portcity@gmail.com</a></p><p><a href='tel:+380 98 654 98 75'>+380 98 654 98 75</a></p><p>г.Днепр, ул. Центральная, 5</p>",
-            "label": "АLEF ESTATE"
+            "label": "Port City </br> Отдел продаж"
         }
     ]
 }
